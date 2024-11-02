@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [GymLocator](https://github.com/harshutech/GYM-Locator)
 
-- 👨‍💻 All of my projects are available at [https://github.com/harshutech](https://github.com/harshutech)
+- 👨‍💻 All of my projects are available at [https://harshpatilportfolio.netlify.app/](https://harshpatilportfolio.netlify.app/)
 
 - 📫 How to reach me **gpatil1461976@gmail.com**
 
